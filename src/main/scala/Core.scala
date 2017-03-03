@@ -16,6 +16,7 @@ object Core extends Calculations {
 
         /**
           * Calculation of all possible combinations for entered number.
+          * aasdasdasdasdgds234234werwr 667676333 3
           */
         val integers = calc(num)
         /**
